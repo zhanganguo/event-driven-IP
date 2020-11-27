@@ -14,4 +14,4 @@ The code is in Matlab runtime, please install Matlab 2017+ before use.
 # Contact
 If any problems, please contact with me.
 
-Anguo Zhang (anguo.zhang@hotmail.com)
+- Anguo Zhang (anguo.zhang@hotmail.com)
